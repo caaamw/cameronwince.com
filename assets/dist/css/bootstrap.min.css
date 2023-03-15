@@ -7246,23 +7246,23 @@ fieldset:disabled .btn {
 }
 .bg-1 {
     --bs-bg-opacity: 1;
-    background-color: #2f3e46;
+    background-color: #004c4c;
 }
 .bg-2 {
     --bs-bg-opacity: 1;
-    background-color: #354f52;
+    background-color: #006666;
 }
 .bg-3 {
     --bs-bg-opacity: 1;
-    background-color: #52796f;
+    background-color: #008080;
 }
 .bg-4 {
     --bs-bg-opacity: 1;
-    background-color: #84a98c;
+    background-color: #66b2b2;
 }
 .bg-5 {
     --bs-bg-opacity: 1;
-    background-color: #cad2c5;
+    background-color: #b2d8d8;
 }
 .bg-6 {
     --bs-bg-opacity: 1;
